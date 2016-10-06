@@ -25,3 +25,7 @@ contents, favs, facts, types {
 .wrapper > .dfn {
   background-color: #b58900;
 }
+
+p + strong {
+  color: #fff;
+}
