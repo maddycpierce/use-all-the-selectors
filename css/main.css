@@ -29,3 +29,7 @@ contents, favs, facts, types {
 p + strong {
   color: #fff;
 }
+
+html > body > main > div > p > dfn > strong {
+  color: #fff;
+}
