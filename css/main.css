@@ -30,6 +30,6 @@ p + strong {
   color: #fff;
 }
 
-html > body > main > div > p > dfn > strong {
+html > body > main > div > p > dfn > strong > strong {
   color: #fff;
 }
