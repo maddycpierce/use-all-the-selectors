@@ -42,7 +42,7 @@ ol > li:first-child {
   color: #719e47;
 }
 
-.types > li:last-child {
+ol > li:last-child {
   color: #2aa198;
 }
 
