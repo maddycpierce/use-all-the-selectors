@@ -30,6 +30,6 @@ p + strong {
   color: #fff;
 }
 
-p + strong ~ {
+p + strong {
   color: #fff;
 }
